@@ -1,6 +1,5 @@
 //Em JavaScript, o tipo de dado objeto é uma estrutura de dados que permite armazenar e organizar valores de diferentes tipos.
 //Os objetos são uma parte fundamental da linguagem, e eles podem representar estruturas mais complexas, como conjuntos de dados e funcionalidades. 
-//Vamos explorar os diferentes tipos de objetos em JavaScript:
 
 //1. Objetos Literais:
 //Um objeto literal é uma forma de criar um objeto de maneira concisa usando chaves {}.
